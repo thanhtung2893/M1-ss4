@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Booking Hotel</title>
+  <link rel="stylesheet" type="text/css" href="./9.1.css">
+</head>
+<body>
+  <header>
+    <h1>Hotel Seach</h1>
+  </header>
+  
+  <body>
+    <section class="booking-form">
+      <style>
+        h2{text-align: center;}
+      </style>
+    
+       <h2>Find the Perfect Hotel for you</h2>
+      
+      <form>
+        <div class="form-group">
+          <label for="room-type">Kind of room:</label>
+          <select id="room-type" required>
+            <option value="single">Phòng đơn</option>
+            <option value="double">Phòng đôi</option>
+            <option value="suite">Suite</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="check-in-date">check-in</label>
+          <input type="date" id="check-in-date" required>
+        </div>
+        <div class="form-group">
+          <label for="check-out-date">check-out</label>
+          <input type="date" id="check-out-date" required>
+        </div>
+        <div class="form-group">
+          <label for="guests">Guests:</label>
+          <input type="number" id="guests" min="1" required>
+        </div>
+        
+        <button type="submit">submit</button>
+      </form>
+    </section>
+    
+  </body>
+  <footer>
+    <p>&copy; 2023 Hotel Seach. All rights reserved.</p>
+  </footer>
+</body>
+</html>

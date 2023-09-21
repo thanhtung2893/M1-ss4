@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    
+}
+
+.tieude{
+    font-size: 20px;
+
+    width: 200px;
+    display:block;
+    margin:0 auto;
+
+}
+p{
+    text-align: center;
+}
+button{
+    background-color: brown;
+   display:block;
+   margin:0 auto;
+}
+.servies{
+   background-image: url("/ảnh/realfish-FvIBFE45uHw-unsplash.jpg");
+   width: 100%;
+   height: 100%;
+ 
+}
+.lang{
+    width: 500px;
+    height: 300px;
+    background-color: blueviolet;
+}

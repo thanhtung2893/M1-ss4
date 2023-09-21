@@ -1,0 +1,19 @@
+input{
+    width: 300px;
+    border-color: aliceblue;
+}
+p{text-align: center;}
+
+
+div {
+    width: 310px;
+    height: 250px;
+    margin: 0 auto;
+    background-color: blanchedalmond;
+}
+p{
+    font-size: 30px;
+}
+button{
+    background-color: blue;
+}

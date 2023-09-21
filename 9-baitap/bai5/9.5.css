@@ -1,0 +1,20 @@
+.price{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;height: auto;
+    background-color: rgb(246, 235, 235);
+}
+
+.box{
+    
+    background-color: white;
+    border: 1px solid rgb(24, 22, 22);
+    border-radius: 4px;
+margin: 0 8px;
+}
+.color{
+    background-color: rgb(110, 94, 94);
+}
+table{
+    width: 100%;
+    
+}

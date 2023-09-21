@@ -1,0 +1,47 @@
+img{
+    width: 100px;
+    height: 50px;
+    
+}
+
+
+img:hover {
+    width: 200px;
+    height: 100px;
+}
+header{
+    font-weight: 700;
+    font-size: 40px;
+   
+}
+.right{
+    display: inline-block;
+}
+
+
+.left{
+    display: inline-block;
+    margin-right: 50px;
+    border-color: rgb(255, 255, 255);
+}
+.number{
+    width: 400px;
+}
+button{
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: blue;
+}
+input{
+    border-color: azure;
+}
+.add{
+    background-color: antiquewhite;
+    width: 500px;
+    height: 400px;
+}
+   
+    
+
+
